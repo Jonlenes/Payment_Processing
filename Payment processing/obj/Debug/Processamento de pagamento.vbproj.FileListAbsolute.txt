@@ -1,0 +1,14 @@
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\bin\Debug\Processamento de pagamento.exe.config
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\bin\Debug\Processamento de pagamento.exe
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\bin\Debug\Processamento de pagamento.pdb
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\bin\Debug\Processamento de pagamento.xml
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento_de_pagamento.Resources.resources
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento de pagamento.vbproj.GenerateResource.Cache
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento de pagamento.exe
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento de pagamento.xml
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento de pagamento.pdb
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento de pagamento.vbprojResolveAssemblyReference.cache
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento_de_pagamento.FormLancamentos.resources
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento_de_pagamento.FormPagamentos.resources
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento_de_pagamento.FormNovoPagamento.resources
+C:\Users\jonlenes\Google Drive\Estudos vb.net\Processamento de pagamento\Processamento de pagamento\obj\Debug\Processamento_de_pagamento.FormVinculoPgtoLanc.resources
